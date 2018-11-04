@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162009877930",
+    "firebase_url": "https://irundatabase.firebaseio.com",
+    "project_id": "irundatabase",
+    "storage_bucket": "irundatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162009877930:android:12ada9db936dbfd0",
+        "android_client_info": {
+          "package_name": "com.example.kayna.irun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162009877930-h7hj97v7aqcmhj4ti4u10e153obgcs79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kayna.irun",
+            "certificate_hash": "68cef71108b4fb1997f30678c2485f8e15c53a55"
+          }
+        },
+        {
+          "client_id": "162009877930-8qs7jv20a88vc10idpefe2bagpjfk3no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtYNmPWE383dYd8swx5JzRshJxB-F1jUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162009877930-8qs7jv20a88vc10idpefe2bagpjfk3no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
